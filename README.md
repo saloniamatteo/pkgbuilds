@@ -4,9 +4,9 @@
 
 NOTICE: I won't be actively using this Repository, as I have switched to Gentoo.
 
-For more PKGBUILDs, visit [my website](https://saloniamatteo.top/aur.html).
+For more PKGBUILDs, visit [my website](https://saloniamatteo.top/packages.html).
 
 + Currently available PKGBUILDs:
-	- Custom [Linux-Ck](https://saloniamatteo.top/ck.html)
+	- Custom Linux-Ck
 	- St
 	- Surf
